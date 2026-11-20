@@ -2,7 +2,8 @@
   "outputStyle": "Partner In Crime",
   "permissions": {
     "allow": [
-      "Bash(node .claude/scripts/ang-context-manager.mjs:*)"
+      "Bash(node .claude/scripts/ang-context-manager.mjs:*)",
+      "Bash(echo:*)"
     ]
   },
   "hooks": {
@@ -35,6 +36,15 @@
             "command": "node \"$CLAUDE_PROJECT_DIR/.claude/scripts/ang-context-manager.mjs\" library index --quiet"
           }
         ]
+      },
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo fixture"
+          }
+        ]
       }
     ],
     "Stop": [
@@ -47,5 +57,8 @@
         ]
       }
     ]
+  },
+  "env": {
+    "FIXTURE_FLAVOUR": "eligendi"
   }
 }

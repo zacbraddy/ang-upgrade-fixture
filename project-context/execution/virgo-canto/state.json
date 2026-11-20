@@ -1,0 +1,36 @@
+{
+  "status": "active",
+  "statusNote": "",
+  "unknowns": [
+    {
+      "id": "u1",
+      "question": "Quae solitudo comminor crastinus ex.",
+      "approach": "Correptius terreo culpo suscipio trans temeritas."
+    }
+  ],
+  "knowns": [
+    {
+      "id": "k1",
+      "fact": "Comprehendo templum sopor sufficio cernuus ducimus subnecto patria tepesco adipisci.",
+      "source": "README.md"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "d1",
+      "decision": "Solio dolorem illum theca coerceo cupiditas artificiose curatio artificiose.",
+      "evidence": "README.md"
+    }
+  ],
+  "lineage": [
+    {
+      "date": "2026-11-20",
+      "event": "created in execution"
+    },
+    {
+      "date": "2026-11-20",
+      "event": "decided: Solio dolorem illum theca coerceo cupiditas artificiose curatio artificiose."
+    }
+  ],
+  "type": "business"
+}

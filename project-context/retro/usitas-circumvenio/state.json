@@ -1,0 +1,36 @@
+{
+  "status": "active",
+  "statusNote": "",
+  "unknowns": [
+    {
+      "id": "u1",
+      "question": "Tres capillus volo sunt approbo vigor.",
+      "approach": "Super blanditiis vester volaticus terror ascit talio."
+    }
+  ],
+  "knowns": [
+    {
+      "id": "k1",
+      "fact": "Uredo defleo vitiosus vulticulus cui supplanto volutabrum.",
+      "source": "README.md"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "d1",
+      "decision": "Conturbo testimonium natus dedecor vigilo vinculum vesco comis tonsor.",
+      "evidence": "README.md"
+    }
+  ],
+  "lineage": [
+    {
+      "date": "2026-11-20",
+      "event": "created in retro"
+    },
+    {
+      "date": "2026-11-20",
+      "event": "decided: Conturbo testimonium natus dedecor vigilo vinculum vesco comis tonsor."
+    }
+  ],
+  "type": "business"
+}

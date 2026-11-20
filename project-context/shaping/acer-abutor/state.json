@@ -1,0 +1,35 @@
+{
+  "status": "active",
+  "statusNote": "",
+  "unknowns": [
+    {
+      "id": "u1",
+      "question": "Minima vobis dolorem solvo.",
+      "approach": "Theca veniam quidem traho."
+    }
+  ],
+  "knowns": [
+    {
+      "id": "k1",
+      "fact": "Uredo cattus cetera.",
+      "source": "README.md"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "d1",
+      "decision": "Valens conventus abbas adficio decet conitor.",
+      "evidence": "README.md"
+    }
+  ],
+  "lineage": [
+    {
+      "date": "2026-11-20",
+      "event": "created in shaping"
+    },
+    {
+      "date": "2026-11-20",
+      "event": "decided: Valens conventus abbas adficio decet conitor."
+    }
+  ]
+}

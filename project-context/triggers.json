@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "fugit-suus",
+    "intent": "Pecto unde ante spiculum campana eveniet denuncio accusantium totam.",
+    "conditions": [
+      "story:virgo-canto/03=done"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "status": "active",
+  "statusNote": "",
+  "unknowns": [
+    {
+      "id": "u1",
+      "question": "Alveus subseco demo vita.",
+      "approach": "Adstringo acceptus creo abutor eveniet iste."
+    }
+  ],
+  "knowns": [
+    {
+      "id": "k1",
+      "fact": "Sub sollers vitiosus aro venustas et acidus curatio repellendus.",
+      "source": "README.md"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "d1",
+      "decision": "Amaritudo vos adstringo minus ubi temptatio sophismata adfectus urbs.",
+      "evidence": "README.md"
+    }
+  ],
+  "lineage": [
+    {
+      "date": "2026-11-20",
+      "event": "created in ideas"
+    },
+    {
+      "date": "2026-11-20",
+      "event": "decided: Amaritudo vos adstringo minus ubi temptatio sophismata adfectus urbs."
+    }
+  ]
+}

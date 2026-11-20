@@ -120,3 +120,7 @@ export function validateLibrary() {
   if (!badTriggers.length) printReadyTriggers(loadTriggers().map(evalTrigger));
   return errors.length === 0;
 }
+
+export function fixtureNote() {
+  return 'Minus agnitio impedit articulus spiculum angustus decretum valeo thema.';
+}

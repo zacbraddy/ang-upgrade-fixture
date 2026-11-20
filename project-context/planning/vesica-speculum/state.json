@@ -1,0 +1,36 @@
+{
+  "status": "active",
+  "statusNote": "",
+  "unknowns": [
+    {
+      "id": "u1",
+      "question": "Subito cupiditas sumptus curis utor.",
+      "approach": "Decipio doloribus aureus colligo laudantium tristis vulticulus deripio aeger."
+    }
+  ],
+  "knowns": [
+    {
+      "id": "k1",
+      "fact": "Somnus allatus conitor caste creber territo libero commodi carcer fuga.",
+      "source": "README.md"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "d1",
+      "decision": "Abstergo esse congregatio adduco appositus dolore comprehendo.",
+      "evidence": "README.md"
+    }
+  ],
+  "lineage": [
+    {
+      "date": "2026-11-20",
+      "event": "created in planning"
+    },
+    {
+      "date": "2026-11-20",
+      "event": "decided: Abstergo esse congregatio adduco appositus dolore comprehendo."
+    }
+  ],
+  "type": "business"
+}

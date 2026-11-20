@@ -10,3 +10,5 @@ A **stream** is a workspace the user cordons off to work independently on someth
 - **Cross-stream triggers.** A `stream:<stream>:<story:|stage:|file: condition>` trigger condition is judged on that stream's branch through git, so only committed work counts. An unregistered stream, a deleted branch or an item missing from that branch makes the condition gone. Re-point or remove such triggers when a stream ends.
 - **Merging between streams.** Regenerate `index.json` after a merge (`ang-context-manager.mjs library index`) rather than merging it by hand. Merge `tags.json` as a union of both sides' tags. `10k/` changes only on main through `/retro`, so streams merge main to pick it up.
 - **Validate** (streams on) warns when a registered stream's branch or worktree is gone, or when mail is addressed to an unregistered stream.
+
+Vitium soluta super.

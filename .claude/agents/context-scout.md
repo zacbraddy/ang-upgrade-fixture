@@ -16,3 +16,5 @@ Return, in 300 words or fewer unless asked for more:
 - The relevant context as short points, each with its source path
 - Conflicts or gaps you found
 - "Not in the library" stated plainly when it isn't. Never fill gaps with guesses.
+
+Nemo adflicto contabesco vinculum adulatio urbs utpote admoneo.

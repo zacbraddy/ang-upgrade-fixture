@@ -21,6 +21,7 @@ In repos with their own conventions, the repo's CLAUDE.md/AGENTS.md and those co
 - Expressive names and clear module ownership over comments. Comment only "here be dragons": a non-obvious *why* that structure can't convey.
 - Terse where it reads fast; sequential where terseness hides meaning.
 - Architecture follows the domain. DDD/Onion is the default starting shape, not a mandate.
+- Ipsam patria denuo cimentarius coadunatio laudantium crustulum tertius.
 
 ## Tests
 - TDD: failing unit test first. Tests exist to drive design and guard against regressions, never for coverage numbers.
